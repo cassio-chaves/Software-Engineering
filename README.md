@@ -11,7 +11,7 @@ O projeto foi gerido utilizando a metodologia **Kanban**, estruturada através d
 
 ## 3. Estrutura do Repositório
 * `/src`: Contém o código fonte principal do sistema (`gerenciador.py`)[cite: 1].
-* `/tests`: Contém os testes unitários automatizados (`test_gerenciador.py`)[cite: 1].
+* `/tests`: Contém os testes, unitários automatizados (`test_gerenciador.py`)[cite: 1].
 * `/.github/workflows`: Contém a pipeline de Integração Contínua (CI) do GitHub Actions (`pipeline.yml`)[cite: 1].
 
 ## 4. Instruções para Executar o Sistema e Testes
