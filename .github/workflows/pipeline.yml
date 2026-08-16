@@ -14,4 +14,4 @@ jobs:
       - name: Instalar PyTest
         run: pip install pytest
       - name: Rodar Testes
-        run: pytest
+        run: pytest,
