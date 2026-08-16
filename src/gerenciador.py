@@ -8,4 +8,4 @@ class GerenciadorTarefas:
         return True
 
     def listar(self):
-        return self.tarefas,
+        return self.tarefas
